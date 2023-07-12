@@ -1,4 +1,4 @@
-/* • Operadores Aritméticos
+/* • Operadores Aritméticos (Aula 20)
 
  1º Soma -> + (Lembrando que ele também serve para concatena).
  2º Subtração -> -
