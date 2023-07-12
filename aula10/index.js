@@ -1,4 +1,4 @@
-// Dados Primitivos 
+// Dados Primitivos (Aula:19)
 // String, Number, Undefined, Null e Boolean
 
 const nome = 'Manoel';  /* String */
