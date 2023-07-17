@@ -52,9 +52,9 @@ console.log('.lastIndexOf(""):', sextaString.lastIndexOf("o",3)); // -> Ele te r
 console.log('------------------------------------');
 /* No JS você tem algumas funções referente a expressões regulares! 
     POR EXEMPLO:
-    5º .metch()
-    6º .search()
-    7º .replace() -> Muda uma palavra que tu tem numa string para outra palavra.
+5º .metch()
+6º .search()
+7º .replace() -> Muda uma palavra que tu tem numa string para outra palavra.
     por exemplo: */
     let setimaString = 'Um texto';
     console.log('.replace(""):', setimaString.replace("Um", "Outro")); // Veja na saida que o .replace() mudou a palavra 'Um' para 'Outro'. OBS: preste atenção na escrita, caso a palavra Um que está com U maiusculo, seja colocada dentro do .replace() em menusculo não vai funcionar!
@@ -69,11 +69,12 @@ console.log('------------------------------------');
     console.log(nonaString.length - 3);
     console.log(nonaString.slice(-35, -29)); // -> Máximo - O quanto de indice tu quer tirar  
     console.log('------------------------------------');
+    
 /*10º .split -> Divide o caractere que tu quer, vai te mostrar um array sem os R se tu colocar console.log(decimaString.split("r")) 
 Por exemplo: */
 
 let decimaString = 'Germano Manoel De Melo'
-console.log(decimaString.split(''));
+console.log(decimaString.split(' '));
 
 /* 11º .toUpperCase -> deixa as letras em maiúsculas.
    12º .toLowerCase -> deixa as lestras em minúsculas.*/
